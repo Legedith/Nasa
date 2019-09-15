@@ -15,3 +15,9 @@ motion sensors for recording activity
 
 ## 3. Disaster management 
 warning in case of solar flares and upcoming storms
+
+
+## 4. Emotional and Psychological Analysis
+Noticing food habits  
+Keeping a track of crew movement  
+Recording all vital signs  
