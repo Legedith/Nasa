@@ -1,0 +1,31 @@
+methane
+blood oxygen level
+lectrodes
+heart rate
+psychological state
+google assistant action for AI bot
+geographical analysis
+// check climatic conditions on mars
+mirages and non calculability of distances due to lack of narkers on mars
+ancient navigation instrments - compas, star navigation, 
+dosimeter for radiactive places so astraunaut does not wander to a harful place
+storm/solar flare sensor
+using ballons for long range sensing
+ Carbon monoxide which is an evidence for iron ores under the ground.
+
+B- Propane which is an evidence of the presence of (natural gas, methane, petroleum and hydrogen).
+
+C- Methane which is an evidence for a fertile soil and the presence of natural gas and petroleum which determines whether there was an early life or not.
+
+D- Hydrogen: When hydrogen is near the surface, this means the presence of methane or natural gas (as hydrogen is contained in these two substances) also, the presence of the hydrogen in soil is an evidence for the good fertile soil.
+
+2- Moisture sensor: This is used to measure the moist of the soil that may mean that there are some microorganisms in the soil. Also, sensing the moist of soil would detect the presence of salts in it which could be an evidence for the presence of a variety of metallic ores underground.
+
+3- Metal detector which consists of a metal coil near the ground that creates a magnetic field due to the flow of the electric current. The magnetic field is affected by metals below the surface and that affects the electric field flowing in the coil by decreasing the voltage that reaches the end of the coil.
+
+4- Humidity & temperature sensor: This is used to measure the humidity of the air and the temperature. The average of humidity that is suitable for life is from 30% to 60%. Because the humidity differs from time to another, the humidity of an area will be measured more than one time and calculate the average of humidity of this area.
+
+
+delunay hexagonal triangulation
+spread sensors out like pollen grains
+go to the best sensor
